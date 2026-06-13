@@ -2,10 +2,6 @@
 
 ### A passionate Swift and Flutter developer who loves to build apps that adds real value to users life.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkumbhar77&label=Profile views&color=0e75b6&style=flat" alt="akashkumbhar77" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkumbhar77" alt="akashkumbhar77" /></a> </p>
-
 - 🔭 I'm currently working on **Im currently working on Swift and Flutter towards Edge Ai , which uses mobile llms for ai in mobile systems.**
 
 - 🌱 I'm currently learning **Agentic Ai  , Metal Ai IOS and gemini for android for Mobile Systems**
